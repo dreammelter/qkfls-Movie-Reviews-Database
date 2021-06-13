@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: movie-reviews-db-a18
    random-route: false
    memory: 128M
